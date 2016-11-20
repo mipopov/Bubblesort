@@ -1,2 +1,2 @@
 # Bubblesort
-Сорт
+
